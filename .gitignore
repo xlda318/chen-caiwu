@@ -1,0 +1,7 @@
+# 忽略VSCode扩展目录（本地安装的扩展无需提交）
+.vscode/extensions/
+
+# 保留团队共享的配置文件（可选，根据需求调整）
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
